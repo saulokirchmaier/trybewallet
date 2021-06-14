@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/trybewallet/static/css/main.c2a4da60.chunk.css",
+    "main.js": "/trybewallet/static/js/main.9d8efca7.chunk.js",
+    "main.js.map": "/trybewallet/static/js/main.9d8efca7.chunk.js.map",
+    "runtime-main.js": "/trybewallet/static/js/runtime-main.daf72ee0.js",
+    "runtime-main.js.map": "/trybewallet/static/js/runtime-main.daf72ee0.js.map",
+    "static/js/2.a281fb12.chunk.js": "/trybewallet/static/js/2.a281fb12.chunk.js",
+    "static/js/2.a281fb12.chunk.js.map": "/trybewallet/static/js/2.a281fb12.chunk.js.map",
+    "index.html": "/trybewallet/index.html",
+    "precache-manifest.4e68505d95ffd681416a9f32de11d1f2.js": "/trybewallet/precache-manifest.4e68505d95ffd681416a9f32de11d1f2.js",
+    "service-worker.js": "/trybewallet/service-worker.js",
+    "static/css/main.c2a4da60.chunk.css.map": "/trybewallet/static/css/main.c2a4da60.chunk.css.map",
+    "static/js/2.a281fb12.chunk.js.LICENSE.txt": "/trybewallet/static/js/2.a281fb12.chunk.js.LICENSE.txt",
+    "static/media/imgLogin.png": "/trybewallet/static/media/imgLogin.938bb142.png",
+    "static/media/logo-wallet.png": "/trybewallet/static/media/logo-wallet.12c62714.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.daf72ee0.js",
+    "static/js/2.a281fb12.chunk.js",
+    "static/css/main.c2a4da60.chunk.css",
+    "static/js/main.9d8efca7.chunk.js"
+  ]
+}
