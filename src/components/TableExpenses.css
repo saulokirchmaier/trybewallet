@@ -1,0 +1,62 @@
+.TableExpenses {
+  display: table;
+  font-family: 'Roboto Slab', serif;
+  font-size: 1rem;
+  text-align: center;
+  padding: 5px;
+  margin: 5px auto;
+  width: 100%;
+}
+
+.description {
+  width: 200px;
+}
+
+.table-head {
+  background-color: black;
+}
+
+th, td {
+  height: 30px;
+
+}
+
+th {
+  background-color: #3b8e7c;
+  color: #C9FFF2;
+  min-width: 100px;
+}
+
+td {
+  color: rgb(29, 29, 29);
+  margin: 0;
+}
+
+.table-body:nth-child(2n) {
+  background-color: #a4ffea;
+}
+
+button {
+  border: none;
+  background-color: rgba(0, 0, 0, 0.0);
+}
+
+.icons {
+  align-items: center;
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.icon {
+  cursor: pointer;
+}
+
+.icon-edit {
+  color: #f7cc7e
+  ;
+}
+
+.icon-delete {
+  color: #b75741;
+  margin-left: 5px;
+}

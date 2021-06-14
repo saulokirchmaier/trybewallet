@@ -1,0 +1,57 @@
+.Header {
+  align-items: center;
+  background-color: #3b8e7c;
+  color: #C9FFF2;
+  display: flex;
+  font-family: 'Roboto Slab', serif;
+  font-size: 1rem;
+  height: 8vh;
+  justify-content: space-between;
+  padding: 10px 20px;
+}
+
+.logo {
+  display: flex;
+  align-items: center;
+}
+
+.Header img {
+  height: 50px;
+  width: auto;
+}
+
+.total {
+  display: flex;
+}
+
+@media screen and (max-width: 1000px) {
+  .email {
+    display: none;
+  }
+}
+
+@media screen and (max-width: 550px) {
+  .Header {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    justify-content: center;
+    height: 10vh;
+    max-height: 70px;
+    padding: 10px;
+  }
+
+  .logo {
+    max-height: 25px;
+  }
+
+  .currency {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+  }
+
+  .total {
+    margin-right: 10px;
+  }
+}

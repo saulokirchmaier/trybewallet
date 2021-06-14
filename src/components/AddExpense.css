@@ -1,0 +1,51 @@
+.AddExpense {
+  align-items: center;
+  display: flex;
+  flex-wrap: wrap;
+  font-family: 'Roboto Slab', serif;
+  font-size: 1rem;
+  gap: 10px;
+  justify-content: space-around;
+  padding: 5px;
+}
+
+.AddExpense input, .AddExpense select, .AddExpense button {
+  font-family: 'Roboto Slab', serif;
+  font-size: 15px;
+  margin-left: 5px;
+}
+
+.AddExpense input, .AddExpense select {
+  background-color: white;
+  border: 1px solid black;
+  border-radius: 5px;
+  height: 25px;
+}
+
+.AddExpense button {
+  border: none;
+  border-radius: 5px;
+  height: 30px;
+  padding: 0 5px;
+}
+
+.add-button {
+  background-color: #f7ca7d;
+  box-shadow: 2px 2px 4px 2px rgba(0, 0, 0, 0.1);
+}
+
+.add-button:hover {
+  background-color: #ecc075;
+  box-shadow: 2px 2px 4px 1px #ecc075;
+}
+
+.edit-button {
+  background-color: #3b8e7c;
+  box-shadow: 2px 2px 4px 2px rgba(0, 0, 0, 0.1);
+  color: #C9FFF2;
+}
+
+.edit-button:hover {
+  background-color: #317969;
+  box-shadow: 2px 2px 4px 1px #317969;
+}
